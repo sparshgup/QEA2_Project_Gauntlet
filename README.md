@@ -1,1 +1,1 @@
-# QEA2_Project_Gauntlet
+# Quantitative Engineering Analysis 2 Project: Gauntlet
