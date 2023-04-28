@@ -13,4 +13,4 @@ Daniel Sudzilouski, Noah Rand, Sparsh Gupta
 
 ## Gradient Plot of Gauntlet
 
-![width:400px](https://user-images.githubusercontent.com/19605629/235258434-019464d8-a635-4735-8cb9-1c6e87de1767.png)
+![Gradient Plot|400x400](https://user-images.githubusercontent.com/19605629/235258434-019464d8-a635-4735-8cb9-1c6e87de1767.png)
