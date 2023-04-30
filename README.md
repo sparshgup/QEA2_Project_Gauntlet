@@ -9,7 +9,7 @@ Daniel Sudzilouski, Noah Rand, Sparsh Gupta
 | Video Links  | 
 | ------------- | 
 | https://www.youtube.com/watch?v=9M7B2m0hBo8 | 
-|https://drive.google.com/file/d/1ofUL9xsu0bG7O09yDi0I2Fz5T6Pls49R/view?usp=share_link | 
+| https://drive.google.com/file/d/1ofUL9xsu0bG7O09yDi0I2Fz5T6Pls49R/view?usp=share_link | 
 
 ## Gradient Plot of Gauntlet
 
